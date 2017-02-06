@@ -8,4 +8,4 @@ Desktop application for strings and beats.
 4. Tracks fees records.
 5. Can send sms if you paid for some sms api.
 
-Note: You can use the code for making better version of this or for understanding but dont submit as it is for your IT project.
+Note: You can use the code for making better version of this or for understanding but don't submit as it is for your IT project.
