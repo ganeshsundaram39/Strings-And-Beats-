@@ -7,3 +7,5 @@ Desktop application for strings and beats.
 3. Takes attendance.
 4. Tracks fees records.
 5. Can send sms if you paid for some sms api.
+
+Note: You can use the code for making better version of this or for understanding but dont submit as it is for your IT project.
